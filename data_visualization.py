@@ -4,7 +4,6 @@ import numpy as np
 from sklearn.preprocessing import LabelEncoder
 from sklearn.preprocessing import StandardScaler
 from sklearn.cross_validation import train_test_split
-from sklearn.metrics import accuracy_score
 
 # visulaize the important characteristics of the dataset
 import matplotlib.pyplot as plt
